@@ -48,6 +48,11 @@ The requirements for UniFun were meticulously gathered using a combination of us
 
 The system design phase outlines the architectural blueprint and detailed components of the UniFun application.
 
+## Live Preview
+You can view a preview of the app's design created with FlutterFlow here: https://app.flutterflow.io/share/unifun-f9sstn?page=page0
+
+Please note that some features may not be fully functional as this preview is not connected to Firebase yet.
+
 ### Key Design Elements:
 * **System Architecture:** Defines the overall structure and interaction between different system components.
 * **Class Diagram:** Illustrates the classes, attributes, operations, and relationships within the system's object-oriented structure.
